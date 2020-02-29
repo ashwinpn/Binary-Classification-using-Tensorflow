@@ -2,15 +2,15 @@
 
 ## Terminology
 
-* Batch Size;
+* Batch Size</br>
   It is a hyperparameter which defines the number of samples the algorithm would work through before the internal parameters are updated.
-* Epoch;
+* Epoch</br>
   Number of epochs reflects the number of iterations the learning algorithm will undergo while working through the entire dataset.
-* Perceptrons;
+* Perceptrons</br>
   A machine learning construct usually used for classification tasks.
-* Stochastic Gradient Descent;
+* Stochastic Gradient Descent</br>
   When the batch_size = 1.
-* Batch Gradient Descent;
+* Batch Gradient Descent</br>
   When epoch = 1.
 
 ## Important considerations
